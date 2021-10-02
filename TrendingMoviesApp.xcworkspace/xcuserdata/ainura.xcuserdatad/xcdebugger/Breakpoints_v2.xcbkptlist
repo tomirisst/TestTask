@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "37501C2A-3CDC-4533-B963-1F897AB48F56"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CEC9742-BE5D-48CF-898B-1801E6076745"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrendingMoviesApp/View/Cells/MovieCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "MovieCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5CEC9742-BE5D-48CF-898B-1801E6076745 - f66ff67bf294d5d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrendingMoviesApp.MovieCell.(posterImageView in _AE4DC5653F21819B586DEAF49FF03FA5).getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "TrendingMoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainura/Desktop/TrendingMoviesApp/TrendingMoviesApp/View/Cells/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "5CEC9742-BE5D-48CF-898B-1801E6076745 - f66ff67bf294d5d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrendingMoviesApp.MovieCell.(posterImageView in _AE4DC5653F21819B586DEAF49FF03FA5).setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "TrendingMoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainura/Desktop/TrendingMoviesApp/TrendingMoviesApp/View/Cells/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "5CEC9742-BE5D-48CF-898B-1801E6076745 - f66ff67bf294cbc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrendingMoviesApp.MovieCell.(posterImageView in _AE4DC5653F21819B586DEAF49FF03FA5).modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "TrendingMoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainura/Desktop/TrendingMoviesApp/TrendingMoviesApp/View/Cells/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "5CEC9742-BE5D-48CF-898B-1801E6076745 - f3913317a12fc3bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrendingMoviesApp.MovieCell.(posterImageView in _AE4DC5653F21819B586DEAF49FF03FA5).modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TrendingMoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainura/Desktop/TrendingMoviesApp/TrendingMoviesApp/View/Cells/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "5CEC9742-BE5D-48CF-898B-1801E6076745 - 3c9731553b466e3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrendingMoviesApp.MovieCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; TrendingMoviesApp.MovieCell"
+                  moduleName = "TrendingMoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainura/Desktop/TrendingMoviesApp/TrendingMoviesApp/View/Cells/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "5CEC9742-BE5D-48CF-898B-1801E6076745 - 932707998a63b827"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrendingMoviesApp.MovieCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TrendingMoviesApp.MovieCell&gt;"
+                  moduleName = "TrendingMoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ainura/Desktop/TrendingMoviesApp/TrendingMoviesApp/View/Cells/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
